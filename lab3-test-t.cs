@@ -15,7 +15,7 @@ public class A
 
     public static int strange(int a, int y)
     {
-        return y + a;
+        return y / a;
     }
         public static int rnd1(int a, int y)
     {
